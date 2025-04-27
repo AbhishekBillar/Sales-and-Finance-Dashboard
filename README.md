@@ -49,4 +49,14 @@ Synthetic or anonymized business data including:
 
 ---
 
+## 📷 Dashboard Preview
+
+
+![Sales   Finance Dashboard Preview](https://github.com/user-attachments/assets/5264d8c1-2d45-4bc9-9190-ecf1703646d7)
+
+
+
+
+---
+
 > 📌 *This project showcases how data visualization can drive insights in financial and sales analysis. Designed for stakeholders, decision-makers, and dashboard enthusiasts.*
